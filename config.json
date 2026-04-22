@@ -4,6 +4,10 @@
     "lookAt": [0, 0.70, 0],
     "fov": 35
   },
+  "webcam": {
+    "deviceLabel": null,
+    "deviceId": null
+  },
   "model": {
     "path": "VRMs/Twig-dotter-ARKit.vrm",
     "scale": 1.0,
