@@ -11,7 +11,8 @@
   "model": {
     "path": "VRMs/Twig-dotter-ARKit.vrm",
     "scale": 1.0,
-    "rotation": [0, 180, 0]
+    "rotation": [0, 180, 0],
+    "mirror": true
   },
   "tracking": {
     "blendshapeAmplify": {
